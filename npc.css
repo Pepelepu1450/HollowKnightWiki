@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+table{
+    margin: auto;
+}
+nav{
+    background-color: gray;
+}
